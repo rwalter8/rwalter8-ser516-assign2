@@ -2,6 +2,7 @@ package com.example;
 
 public class Greeter {
 
+    // misc comment
     public String greet(String name) {
         return "Hello, " + name + "!";
     }
